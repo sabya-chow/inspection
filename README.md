@@ -43,8 +43,7 @@ This project focuses on cleaning, analyzing, and validating financial data from 
    - `pandas`
    - `numpy`
    - `matplotlib`
-   - `yfinance` (for stock data retrieval)
-   - `plotly` (for advanced data visualization)
+
 2. **Data Input**:
    - The project expects input files in specific formats (e.g., Excel). Ensure all paths and files are correctly specified.
 3. **Running the Code**:
